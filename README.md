@@ -10,6 +10,9 @@ This repository contains the core forecasting code used in the master's thesis
 - Cross-Cohort Forecasting
 
   <img width="1104" alt="Architecture_new" src="https://github.com/user-attachments/assets/9e899aa1-614e-4c33-b799-f8e363c30e27" />
+
+  *Figure: Custom illustration of the model architecture used in the forecasting pipeline.*
+
 ---
 
 ## 📁 Folder Structure
