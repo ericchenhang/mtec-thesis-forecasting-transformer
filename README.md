@@ -20,7 +20,7 @@ This repository contains the core forecasting code used in the master's thesis
 ├── data/
 │ ├── 15-transactions_allCohorts.csv
 │ ├── EL_transactions_allCohorts.csv
-│ └── AP_transactions_allCohosts.csv
+│
 ├── README.md
 └── requirements.txt
 ```
